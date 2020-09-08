@@ -1,3 +1,3 @@
-# Create_Google_Logo_Using_CSS
+# Create google logo using CSS
 
-https://viktoriya-druzhkova.github.io/Create_Google_Logo_Using_CSS/
+<a href='https://druzhkova.github.io/Create-google-logo-using-CSS/'>Watch here</a>
